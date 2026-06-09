@@ -1,10 +1,7 @@
 ---
 name: create-ex
-description: "Distill an ex-girlfriend into an AI Skill. Import WeChat/iMessage/SMS/photos, generate Memories + Persona, with continuous evolution. | 把前任蒸馏成 AI Skill，导入微信/iMessage/短信/照片，生成共同记忆 + Persona，支持持续进化。"
-argument-hint: "[ex-name-or-slug]"
-version: "1.0.0"
-user-invocable: true
-allowed-tools: Read, Write, Edit, Bash
+description: Distill an ex-girlfriend into an AI Skill. Import WeChat/iMessage/SMS/photos, generate Memories + Persona, with continuous evolution. 把前任蒸馏成 AI Skill，导入微信/iMessage/短信/照片，生成共同记忆 + Persona，支持持续进化。
+keywords: ex-girlfriend, distillation, AI companion, memories, persona, WeChat, iMessage, SMS, chat analysis, relationship, emotional intelligence, evolution
 ---
 
 > **Language / 语言**: This skill supports both English and Chinese. Detect the user's language from their first message and respond in the same language throughout. Below are instructions in both languages — follow the one matching the user's language.
